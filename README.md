@@ -34,16 +34,16 @@ Dataset is found on [kaggle.com](https://www.kaggle.com/tristan581/17k-apple-app
 Using different graphs and piecharts we can ananlyze and make inferences on the data.
 
 **Genre grouping**  
-        Puzzel has less average rating comparing to other Genres.
-        Action & Adventure Genre games above 600MB have more tendency to achieve rating 4.0 and above.
-        Family Games show lesser rating with size above 200MB.
+* Puzzel has less average rating comparing to other Genres.  
+* Action & Adventure Genre games above 600MB have more tendency to achieve rating 4.0 and above.  
+* Family Games show lesser rating with size above 200MB.  
 **Game Size Analysis**  
-        Games below 250MB -> focus on size between 100MB to 150MB of contents.
-        Games between 250MB to 1GB -> focus on size between 500MB+ of contents.
+* Games below 250MB -> focus on size between 100MB to 150MB of contents.  
+* Games between 250MB to 1GB -> focus on size between 500MB+ of contents.  
 **Release Date/ Update Factor**  
-        Almost 90% of the developers focuses on games below 1 Dollar and places In-App Purchase as their strategy for income.  
-**Game price and In-App Purchase Factor**
-        A large number of Developers create free games.
-        Puzzel shows more no. of paid players compare to others.
+* Almost 90% of the developers focuses on games below 1 Dollar and places In-App Purchase as their strategy for income.  
+**Game price and In-App Purchase Factor**  
+* A large number of Developers create free games.  
+* Puzzel shows more no. of paid players compare to others.  
 **Age Rating Factor**  
-        Games with age rating 12+ gains more likes.
+* Games with age rating 12+ gains more likes.
