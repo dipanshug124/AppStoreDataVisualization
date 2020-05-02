@@ -1,7 +1,7 @@
 # app-store-data-viz
 Data visualization of app store data, needed by game developer to create app with better ratings.
 
-#### Objective
+## Objective
 To expose the best combination for strategy games available in the AppStore in order to get a good user rating (4.0/5.0 and above).
 
 #### Downloading data
@@ -30,7 +30,7 @@ Dataset is found on [kaggle.com](https://www.kaggle.com/tristan581/17k-apple-app
 * [Jupyter Notebook](http://ipython.org/notebook.html)
 * [Anaconda](http://continuum.io/downloads) installed with `Python 3.8`
 
-### Summary  
+## Summary  
 Using different graphs and piecharts we can ananlyze and make inferences on the data.
 
 **Genre grouping**  
