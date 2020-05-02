@@ -33,6 +33,15 @@ Dataset is found on [kaggle.com](https://www.kaggle.com/tristan581/17k-apple-app
 ## Summary  
 Using different graphs and piecharts we can ananlyze and make inferences on the data.
 
+![](https://github.com/dipanshug124/app-store-data-viz/blob/master/Graphs/1.png)
+![](https://github.com/dipanshug124/app-store-data-viz/blob/master/Graphs/3.png)
+![](https://github.com/dipanshug124/app-store-data-viz/blob/master/Graphs/4.png)
+![](https://github.com/dipanshug124/app-store-data-viz/blob/master/Graphs/6.png)
+![](https://github.com/dipanshug124/app-store-data-viz/blob/master/Graphs/7.png)
+![](https://github.com/dipanshug124/app-store-data-viz/blob/master/Graphs/8.png)
+![](https://github.com/dipanshug124/app-store-data-viz/blob/master/Graphs/download.png)
+![](https://github.com/dipanshug124/app-store-data-viz/blob/master/Graphs/images)
+
 **Genre grouping**  
 * Puzzel has less average rating comparing to other Genres.  
 * Action & Adventure Genre games above 600MB have more tendency to achieve rating 4.0 and above.  
