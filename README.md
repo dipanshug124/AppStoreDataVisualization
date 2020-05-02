@@ -31,6 +31,7 @@ Dataset is found on [kaggle.com](https://www.kaggle.com/tristan581/17k-apple-app
 * [Anaconda](http://continuum.io/downloads) installed with `Python 3.8`
 
 ## Summary  
+Final code is uploaded in [data_viz](https://github.com/dipanshug124/app-store-data-viz/blob/master/data_viz.ipynb)  
 Using different graphs and piecharts we can ananlyze and make inferences on the data.
 
 ![](https://github.com/dipanshug124/app-store-data-viz/blob/master/Graphs/1.png)
@@ -60,3 +61,5 @@ Using different graphs and piecharts we can ananlyze and make inferences on the 
 
 **Age Rating Factor**  
 * Games with age rating 12+ gains more likes.
+
+
