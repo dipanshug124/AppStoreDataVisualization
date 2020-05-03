@@ -43,6 +43,9 @@ Using different graphs and piecharts we can ananlyze and make inferences on the 
 ![](https://github.com/dipanshug124/app-store-data-viz/blob/master/Graphs/download.png)
 ![](https://github.com/dipanshug124/app-store-data-viz/blob/master/Graphs/images)
 
+
+### Inferences  
+
 **Genre grouping**  
 * Puzzel has less average rating comparing to other Genres.  
 * Action & Adventure Genre games above 600MB have more tendency to achieve rating 4.0 and above.  
