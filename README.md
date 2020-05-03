@@ -44,7 +44,7 @@ Using different graphs and piecharts we can ananlyze and make inferences on the 
 ![](https://github.com/dipanshug124/app-store-data-viz/blob/master/Graphs/images)
 
 
-### Inferences  
+## Inferences  
 
 **Genre grouping**  
 * Puzzel has less average rating comparing to other Genres.  
